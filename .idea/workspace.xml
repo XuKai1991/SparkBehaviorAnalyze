@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e5b468e-aa04-4bb8-806e-76a05be30f41" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/local.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/testConfilct.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/local.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/remote.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -1396,11 +1396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525803576820</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="merge local and remote">
+      <created>1525830589493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525830589493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169039000" />
+    <option name="totallyTimeSpent" value="169143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1934" height="1048" extended-state="0" />
@@ -1475,7 +1482,8 @@
     <MESSAGE value="create project" />
     <MESSAGE value="edit newfile" />
     <MESSAGE value="delete newfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete newfile" />
+    <MESSAGE value="merge local and remote" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge local and remote" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
