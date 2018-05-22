@@ -44,7 +44,7 @@ public class SparkUtils {
      * Created: 2018/4/28 1:00
      * Params: [sc]
      */
-    public static SQLContext getSqlContext(SparkContext sc) {
+    public static SQLContext getSqlContext(JavaSparkContext sc) {
         Boolean isLocal = ConfigurationManager.getBoolean(SPARK_LOCAL);
         if (isLocal) {
             return new SQLContext(sc);
@@ -75,10 +75,20 @@ public class SparkUtils {
     public static JavaRDD<Row> getActionRddByDateRange(SQLContext sqlContext, JSONObject taskParam) {
         String startDate = ParamUtils.getParam(taskParam, Constants.PARAM_START_DATE);
         String endDate = ParamUtils.getParam(taskParam, Constants.PARAM_END_DATE);
-        String sql = "select * from user_visit_action where" +
-                " date>='" + startDate + "'" +
-                " and date<='" + endDate + "'";
-//				+ "and session_id not in('','','')"
+        // String sql = "select * from user_visit_action where" +
+        //         " date>='" + startDate + "'" +
+        //         " and date<='" + endDate + "'";
+        String sql = null;
+        boolean local = ConfigurationManager.getBoolean(Constants.SPARK_LOCAL);
+        if (local) {
+            sql = "select * from user_visit_action where" +
+                    " date>='" + startDate + "'" +
+                    " and date<='" + endDate + "'";
+        } else {
+            sql = "select * from sparkanalyze.user_visit_action where" +
+                    " date>='" + startDate + "'" +
+                    " and date<='" + endDate + "'";
+        }
         DataFrame actionDff = sqlContext.sql(sql);
 
         /**
@@ -88,6 +98,26 @@ public class SparkUtils {
          * 所以这里就可以对Spark SQL刚刚查询出来的RDD执行repartition重分区操作
          */
 //		return actionDF.javaRDD().repartition(1000);
+
+        return actionDff.javaRDD();
+    }
+
+    /*
+     * Author: XuKai
+     * Description: 查询所有用户数据
+     * Created: 2018/5/22 2:39
+     * Params: [sqlContext]
+     * Returns: org.apache.spark.api.java.JavaRDD<org.apache.spark.sql.Row>
+     */
+    public static JavaRDD<Row> getUserInfoRddnge(SQLContext sqlContext) {
+        String sql = null;
+        boolean local = ConfigurationManager.getBoolean(Constants.SPARK_LOCAL);
+        if (local) {
+            sql = "select * from user_info";
+        } else {
+            sql = "select * from sparkanalyze.user_info";
+        }
+        DataFrame actionDff = sqlContext.sql(sql);
 
         return actionDff.javaRDD();
     }

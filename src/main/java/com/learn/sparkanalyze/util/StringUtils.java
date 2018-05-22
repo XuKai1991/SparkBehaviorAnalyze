@@ -14,7 +14,7 @@ public class StringUtils {
      * @return 是否为空
      */
     public static boolean isEmpty(String str) {
-        return str == null || "".equals(str);
+        return str == null || "".equals(str) || "null".equals(str) || "NULL".equals(str);
     }
 
     /**
@@ -24,7 +24,7 @@ public class StringUtils {
      * @return 是否不为空
      */
     public static boolean isNotEmpty(String str) {
-        return str != null && !"".equals(str);
+        return str != null && !"".equals(str) && !"null".equals(str) && !"NULL".equals(str);
     }
 
     /**

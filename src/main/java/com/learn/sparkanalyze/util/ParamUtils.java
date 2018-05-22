@@ -12,11 +12,12 @@ import com.learn.sparkanalyze.constant.Constants;
  */
 public class ParamUtils {
 
-    /**
-     * 从命令行参数中提取任务id
-     *
-     * @param args 命令行参数
-     * @return 任务id
+    /*
+     * Author: XuKai
+     * Description: 从命令行参数中提取任务id
+     * Created: 2018/5/21 12:01 
+     * Params: [args 命令行参数, taskType 任务类型]
+     * Returns: java.lang.Long 任务id
      */
     public static Long getTaskIdFromArgs(String[] args, String taskType) {
         boolean local = ConfigurationManager.getBoolean(Constants.SPARK_LOCAL);

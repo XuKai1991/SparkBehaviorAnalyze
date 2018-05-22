@@ -95,9 +95,12 @@ public class UserVisitSessionAnalyzeSpark {
                  * 每一次重试拉取文件的时间间隔，默认5s
                  */
                 .set("spark.shuffle.io.retryWait", "60");
+
+        // sparkConf.setMaster("local");  // 用于本地测试HiveSql
+
         SparkUtils.setMaster(sparkConf);
         JavaSparkContext sc = new JavaSparkContext(sparkConf);
-        SQLContext sqlContext = SparkUtils.getSqlContext(sc.sc());
+        SQLContext sqlContext = SparkUtils.getSqlContext(sc);
 
         // 生成模拟测试数据
         SparkUtils.mockData(sc, sqlContext);
@@ -422,8 +425,7 @@ public class UserVisitSessionAnalyzeSpark {
         );
 
         // 查询所有用户数据
-        String sql = "select * from user_info";
-        JavaRDD<Row> userInfoRdd = sqlContext.sql(sql).javaRDD();
+        JavaRDD<Row> userInfoRdd = SparkUtils.getUserInfoRddnge(sqlContext);
 
         JavaPairRDD<Long, Row> userid2InfoRdd = userInfoRdd.mapToPair(
                 new PairFunction<Row, Long, Row>() {
@@ -1137,15 +1139,19 @@ public class UserVisitSessionAnalyzeSpark {
                             list.add(new Tuple2<Long, Long>(clickCategoryid, clickCategoryid));
                         } else if (!row.isNullAt(8)) {
                             String orderCategoryids = row.getString(8);
-                            String[] splits = orderCategoryids.split(",");
-                            for (String orderCategoryid : splits) {
-                                list.add(new Tuple2<Long, Long>(Long.valueOf(orderCategoryid), Long.valueOf(orderCategoryid)));
+                            if (StringUtils.isNotEmpty(orderCategoryids)) {
+                                String[] splits = orderCategoryids.split(",");
+                                for (String orderCategoryid : splits) {
+                                    list.add(new Tuple2<Long, Long>(Long.valueOf(orderCategoryid), Long.valueOf(orderCategoryid)));
+                                }
                             }
                         } else if (!row.isNullAt(10)) {
                             String payCategoryids = row.getString(10);
-                            String[] splits = payCategoryids.split(",");
-                            for (String payCategoryid : splits) {
-                                list.add(new Tuple2<Long, Long>(Long.valueOf(payCategoryid), Long.valueOf(payCategoryid)));
+                            if (StringUtils.isNotEmpty(payCategoryids)) {
+                                String[] splits = payCategoryids.split(",");
+                                for (String payCategoryid : splits) {
+                                    list.add(new Tuple2<Long, Long>(Long.valueOf(payCategoryid), Long.valueOf(payCategoryid)));
+                                }
                             }
                         }
                         return list;
@@ -1497,7 +1503,7 @@ public class UserVisitSessionAnalyzeSpark {
                     @Override
                     public Boolean call(Tuple2<String, Row> tuple) throws Exception {
                         Row row = tuple._2;
-                        return (row.isNullAt(8) ? false : true);
+                        return (row.isNullAt(8) || StringUtils.isEmpty(row.getString(8)) ? false : true);
                     }
                 }
         );
@@ -1542,7 +1548,7 @@ public class UserVisitSessionAnalyzeSpark {
                     @Override
                     public Boolean call(Tuple2<String, Row> tuple) throws Exception {
                         Row row = tuple._2;
-                        return (row.isNullAt(10) ? false : true);
+                        return ((row.isNullAt(10) || StringUtils.isEmpty(row.getString(10))) ? false : true);
                     }
                 }
         );

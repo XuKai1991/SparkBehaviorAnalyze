@@ -76,10 +76,17 @@ public class DAOFactory {
     public static ITop10SessionDAO getTop10SessionDAO() {
     	return new Top10SessionDAOImpl();
     }
-    //
-    // public static IPageSplitConvertRateDAO getPageSplitConvertRateDAO() {
-    // 	return new PageSplitConvertRateDAOImpl();
-    // }
+
+    /*
+     * Author: XuKai
+     * Description: 页面切片转换率
+     * Created: 2018/5/21 16:54
+     * Params: []
+     * Returns: com.learn.sparkanalyze.dao.IPageSplitConvertRateDAO
+     */
+    public static IPageSplitConvertRateDAO getPageSplitConvertRateDAO() {
+    	return new PageSplitConvertRateDAOImpl();
+    }
     //
     // public static IAreaTop3ProductDAO getAreaTop3ProductDAO() {
     // 	return new AreaTop3ProductDAOImpl();
