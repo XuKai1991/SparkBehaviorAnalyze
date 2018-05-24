@@ -87,10 +87,17 @@ public class DAOFactory {
     public static IPageSplitConvertRateDAO getPageSplitConvertRateDAO() {
     	return new PageSplitConvertRateDAOImpl();
     }
-    //
-    // public static IAreaTop3ProductDAO getAreaTop3ProductDAO() {
-    // 	return new AreaTop3ProductDAOImpl();
-    // }
+
+    /*
+     * Author: XuKai
+     * Description: 各区域top3热门商品DAO
+     * Created: 2018/5/24 11:57
+     * Params: []
+     * Returns: com.learn.sparkanalyze.dao.IAreaTop3ProductDAO
+     */
+    public static IAreaTop3ProductDAO getAreaTop3ProductDAO() {
+    	return new AreaTop3ProductDAOImpl();
+    }
     //
     // public static IAdUserClickCountDAO getAdUserClickCountDAO() {
     // 	return new AdUserClickCountDAOImpl();

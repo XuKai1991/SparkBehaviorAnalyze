@@ -5,10 +5,10 @@ import com.alibaba.fastjson.JSONObject;
 import com.learn.sparkanalyze.conf.ConfigurationManager;
 import com.learn.sparkanalyze.constant.Constants;
 
-/**
- * 参数工具类
- *
- * @author Administrator
+/*
+ * Author: XuKai
+ * Description: 参数工具类
+ * Created: 2018/5/23 13:51
  */
 public class ParamUtils {
 
@@ -33,7 +33,6 @@ public class ParamUtils {
                 e.printStackTrace();
             }
         }
-
         return null;
     }
 

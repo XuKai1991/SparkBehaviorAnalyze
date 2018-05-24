@@ -482,21 +482,3 @@ public class AreaTop3ProductSpark {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

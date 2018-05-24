@@ -1,4 +1,4 @@
-package com.learn.sparkanalyze.test;
+package com.learn.sparkanalyze.util;
 
 import com.learn.sparkanalyze.util.DateUtils;
 import com.learn.sparkanalyze.util.StringUtils;

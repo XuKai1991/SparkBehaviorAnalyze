@@ -3,9 +3,7 @@ package com.learn.sparkanalyze.util;
 import com.alibaba.fastjson.JSONObject;
 import com.learn.sparkanalyze.conf.ConfigurationManager;
 import com.learn.sparkanalyze.constant.Constants;
-import com.learn.sparkanalyze.test.MockData;
 import org.apache.spark.SparkConf;
-import org.apache.spark.SparkContext;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.sql.DataFrame;
@@ -75,9 +73,6 @@ public class SparkUtils {
     public static JavaRDD<Row> getActionRddByDateRange(SQLContext sqlContext, JSONObject taskParam) {
         String startDate = ParamUtils.getParam(taskParam, Constants.PARAM_START_DATE);
         String endDate = ParamUtils.getParam(taskParam, Constants.PARAM_END_DATE);
-        // String sql = "select * from user_visit_action where" +
-        //         " date>='" + startDate + "'" +
-        //         " and date<='" + endDate + "'";
         String sql = null;
         boolean local = ConfigurationManager.getBoolean(Constants.SPARK_LOCAL);
         if (local) {
@@ -122,4 +117,38 @@ public class SparkUtils {
         return actionDff.javaRDD();
     }
 
+    /*
+     * Author: XuKai
+     * Description: 查询指定日期范围内的点击行为数据
+     * Created: 2018/5/23 9:30
+     * Params: [sqlContext, startDate, endDate]
+     * Returns: org.apache.spark.api.java.JavaPairRDD<java.lang.Long,org.apache.spark.sql.Row>
+     */
+    public static JavaRDD<Row> getcityActionRddByDate(SQLContext sqlContext, JSONObject taskParam) {
+        String startDate = ParamUtils.getParam(taskParam, Constants.PARAM_START_DATE);
+        String endDate = ParamUtils.getParam(taskParam, Constants.PARAM_END_DATE);
+        String sql = null;
+        boolean local = ConfigurationManager.getBoolean(Constants.SPARK_LOCAL);
+        if (local) {
+            sql =
+                    "SELECT "
+                            + "city_id,"
+                            + "click_product_id product_id "
+                            + "FROM user_visit_action "
+                            + "WHERE click_product_id IS NOT NULL "
+                            + "AND date>='" + startDate + "' "
+                            + "AND date<='" + endDate + "'";
+        } else {
+            sql =
+                    "SELECT "
+                            + "city_id,"
+                            + "click_product_id product_id "
+                            + "FROM sparkanalyze.user_visit_action "
+                            + "WHERE click_product_id IS NOT NULL "
+                            + "AND date>='" + startDate + "' "
+                            + "AND date<='" + endDate + "'";
+        }
+        JavaRDD<Row> actionDff = sqlContext.sql(sql).javaRDD();
+        return actionDff;
+    }
 }

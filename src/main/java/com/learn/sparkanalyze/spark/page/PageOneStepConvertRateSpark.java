@@ -95,6 +95,9 @@ public class PageOneStepConvertRateSpark {
 
         System.out.println(pageSplitPvMap);
         System.out.println(convertRateMap);
+
+        // 关闭Spark上下文
+        sc.close();
     }
 
     /*
