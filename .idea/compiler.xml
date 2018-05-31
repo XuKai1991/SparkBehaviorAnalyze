@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sparkanalyze" />
+        <module name="SparkAnalyze" />
+        <module name="SparkBehaviorAnalyze" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SparkAnalyze" target="1.8" />
       <module name="sparkanalyze" target="1.8" />
+      <module name="SparkBehaviorAnalyze" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

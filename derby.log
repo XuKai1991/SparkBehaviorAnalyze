@@ -1,7 +1,423 @@
 ----------------------------------------------------------------
-Tue May 22 21:48:53 CST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0163-881c-1ae0-0000056cea18 
-on database directory C:\Users\1\AppData\Local\Temp\spark-a02bad39-8516-4dec-b1f0-663922c944a8\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Tue May 29 10:23:57 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-6d93819e-7ff8-452e-a501-f4a6a0fc9ca0\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:24:09 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 54d50398-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-537dc550-62c9-4eac-919c-7abe8433c448\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:24:19 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 3e81c6d6-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-1cde5c79-9794-4185-82b9-726a5ac11e6a\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:24:26 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 08ef8a14-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-15b06544-e6f7-4c3e-ae58-236c6a559d5f\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:24:32 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 341e4d52-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-ec0c5c4d-a19d-494a-9e7b-fafef47b982a\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:24:38 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 400e1090-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-78f8b536-6dfa-4f67-8003-79a04d1252e2\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:24:44 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance acbed3ce-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-00763d7c-4f6a-4d40-b7d7-3f235908dd71\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:24:50 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance fa30970c-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-9261c311-fa2c-4936-8a75-35156cd46dcc\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:24:56 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a8635a4a-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-aa03d899-9f23-459d-a2b8-9e566cc5a003\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:25:06 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 37571d88-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-e4f69e9b-4540-49f3-8c7f-7f4829e54ff2\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:25:14 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 270be0c6-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-28fb4e7a-6c29-4c4a-bbf4-5a78cea8ab5c\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:25:21 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance f781a404-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-5c588f09-ca04-43cb-b05d-6424d05df203\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:25:26 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 28b86742-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-35034ca4-e766-4c3c-9456-d340a5032e22\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:25:42 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 3ab02a80-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-58760af6-a4fc-49db-a8b3-e278712c2376\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:25:47 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance ad68edbe-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-fe2835ef-6d70-4135-a2a7-0a964b3f4bab\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:25:53 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 00e2b0fc-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-121c8b41-61a6-44cc-93f2-60434ef92b82\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:25:58 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance b51d743a-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-6a30b3b5-1bea-4511-9e07-2e99d14cab21\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:26:03 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 4a193778-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-840af467-c5a9-49a7-873a-ae388ec48d18\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:26:09 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 3fd5fab6-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-a77237f4-8303-4604-a7ad-9499d5993bee\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:26:13 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 1653bdf4-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-24b8389e-c0cc-4b38-95a0-81db6ce0ef79\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:26:18 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 4d928132-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-e715b6fe-2bd8-43aa-a1e4-97f7a586f0bf\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:26:23 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 65924470-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-5f7d742f-2499-4983-8942-5071c0117141\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:26:34 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance de5307ae-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-2030e459-f844-45be-bef0-a9d13770f6fe\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:26:39 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 37d4caec-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-add6afb9-2e91-4f0a-9d18-4d147aeb2857\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:26:45 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance f2178e2a-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-2a25a9ed-36c6-442e-bde4-cc9c1d72db4d\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:26:51 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 8d1b5168-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-ecfa0d4f-f15c-4b77-aa26-5c1310580e31\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:26:57 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 88e014a6-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-3f3912da-4a3c-4466-83c6-6d8e3acecd72\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:27:03 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 6565d7e4-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-508e962d-e569-475a-adf6-807a548c6e4b\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:27:09 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a2ac9b22-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-9a67678a-5582-4f14-9a3d-e8da492c2e65\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:27:15 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance c0b45e60-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-89a7d40c-42f4-4bba-9977-e788197043ae\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:27:23 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 3f7d219e-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-ae31f064-b5b6-4742-9c93-e0301ed396fd\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:27:30 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 9f06e4dc-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-96534e26-94eb-4027-b796-b49773294077\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=D:\IDEAWorkSpace\sparkanalyze
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 29 10:27:35 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 5f51a81a-0163-a9b5-8993-0000076262e0 
+on database directory C:\Users\1\AppData\Local\Temp\spark-bfab86ae-3ee0-45de-8df5-b4be5fcfdcdb\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
 Loaded from file:/D:/Maven-3.5.0/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_91-b15

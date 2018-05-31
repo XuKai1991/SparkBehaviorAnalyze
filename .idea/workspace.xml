@@ -2,108 +2,161 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e5b468e-aa04-4bb8-806e-76a05be30f41" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$16.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fommil_netlib_core_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_rwl_jtransforms_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_10_0_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_f2j_arpack_combined_all_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_mllib_2_10_1_6_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_10_1_6_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jpmml_pmml_agent_1_1_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jpmml_pmml_model_1_1_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jpmml_pmml_schema_1_1_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalamacros_quasiquotes_2_10_2_0_0_M8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalanlp_breeze_2_10_0_11_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalanlp_breeze_macros_2_10_0_11_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spire_math_spire_2_10_0_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spire_math_spire_macros_2_10_0_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/derby.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IPageSplitConvertRateDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/PageSplitConvertRateDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/PageSplitConvertRate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/AreaTop3ProductSpark.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/HiveSqlTest.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/TestHiveSql.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/hive-site.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_11_0_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_10_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/CategorySort$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/CategorySort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/CategorySortKeyTest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/CategorySortKeyTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulatorTest$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulatorTest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulatorTest$SessionAggrStatAccumulator$2$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulatorTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/factory/DAOFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/factory/DAOFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$1.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$17.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$17.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$18.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$18.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$19.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$19.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$2.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$20.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$20.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$21.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$21.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$22.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$22.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$23.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$23.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$24.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$24.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$25.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$25.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$26.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$26.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$4.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$6.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$7.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$8.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$9.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/test/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/test/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/ParamUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/ParamUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/SparkUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/SparkUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/StringUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/StringUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAdBlacklistDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAdClickTrendDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAdProvinceTop3DAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAdStatDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAdUserClickCountDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AdBlacklistDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AdClickTrendDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AdProvinceTop3DAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AdStatDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AdUserClickCountDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/AdClickTrend.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/AdProvinceTop3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/AdStat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/AdUserClickCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/ad/AdClickRealTimeStatSpark.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/test/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/util/MockRealTimeData.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/conf/ConfigurationManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/conf/ConfigurationManagerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/constant/Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/ISessionAggrStatDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/ISessionDetailDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/ISessionRandomExtractDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/ITaskDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/ITop10CategoryDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/ITop10SessionDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/factory/DAOFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/factory/TaskDAOTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/impl/SessionAggrStatDAOImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/impl/SessionDetailDAOImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/impl/SessionDetailDAOImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/impl/SessionRandomExtractDAOImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/impl/TaskDAOImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/impl/TaskDAOImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/impl/Top10CategoryDAOImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/dao/impl/Top10SessionDAOImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/domain/SessionAggrStat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/domain/SessionDetail.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/domain/SessionRandomExtract.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/domain/Task.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/domain/Top10Category.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/domain/Top10Session.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/jdbc/JDBCHelper$QueryCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/jdbc/JDBCHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/jdbc/JDBCHelperTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/CategorySortKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$17.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$19.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$20.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$21.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$22.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$23.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$24.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$25.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$26.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/test/FastjsonTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/test/MockData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/test/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/test/TreeMapSort$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/test/TreeMapSort$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/test/TreeMapSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/DateUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/NumberUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/ParamUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/SparkUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/StringUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/util/ValidUtils.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/derby.log" afterPath="$PROJECT_DIR$/derby.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sparkanalyze.iml" afterPath="$PROJECT_DIR$/sparkanalyze.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/factory/DAOFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/factory/DAOFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/page/PageOneStepConvertRateSpark.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/page/PageOneStepConvertRateSpark.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/ParamUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/ParamUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/SparkUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/SparkUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/StringUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/StringUtils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/my.properties" afterPath="$PROJECT_DIR$/src/main/resources/my.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/my.properties" afterPath="$PROJECT_DIR$/target/classes/my.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_4_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_10_2_4_4.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_11_2_3_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_10_2_3_11.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_remote_2_11_2_3_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_remote_2_10_2_3_11.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_11_2_3_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_10_2_3_11.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_0_8_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_10_0_8_2_1.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_catalyst_2_11_1_6_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_catalyst_2_10_1_6_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_1_6_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_hive_2_10_1_6_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_hive_2_11_1_6_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_10_1_6_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_1_6_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_10_1_6_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_1_6_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_10_1_6_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_1_6_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_10_1_6_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sql_2_11_1_6_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sql_2_10_1_6_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_11_1_6_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_10_1_6_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_2_11_1_6_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_2_10_1_6_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_1_6_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_graphx_2_10_1_6_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_ast_2_11_3_2_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_ast_2_10_3_2_10.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_core_2_11_3_2_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_core_2_10_3_2_10.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_jackson_2_11_3_2_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_jackson_2_10_3_2_10.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_11_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_10_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_5.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_10_4.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scalap_2_11_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scalap_2_10_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$14.class" afterPath="$PROJECT_DIR$/target/classes/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark$5.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sparkanalyze.iml" afterPath="$PROJECT_DIR$/SparkBehaviorAnalyze.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/conf/ConfigurationManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/conf/ConfigurationManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/conf/ConfigurationManagerTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/conf/ConfigurationManagerTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/constant/Constants.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/constant/Constants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IAreaTop3ProductDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAreaTop3ProductDAO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IPageSplitConvertRateDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IPageSplitConvertRateDAO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ISessionAggrStatDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/ISessionAggrStatDAO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ISessionDetailDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/ISessionDetailDAO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ISessionRandomExtractDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/ISessionRandomExtractDAO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ITaskDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/ITaskDAO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ITop10CategoryDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/ITop10CategoryDAO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ITop10SessionDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/ITop10SessionDAO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/factory/DAOFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/factory/DAOFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/factory/TaskDAOTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/factory/TaskDAOTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/AreaTop3ProductDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AreaTop3ProductDAOImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/PageSplitConvertRateDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/PageSplitConvertRateDAOImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/SessionAggrStatDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/SessionAggrStatDAOImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/SessionDetailDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/SessionDetailDAOImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/SessionRandomExtractDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/SessionRandomExtractDAOImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/TaskDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/TaskDAOImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/Top10CategoryDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/Top10CategoryDAOImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/Top10SessionDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/Top10SessionDAOImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/AreaTop3Product.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/AreaTop3Product.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/PageSplitConvertRate.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/PageSplitConvertRate.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/SessionAggrStat.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/SessionAggrStat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/SessionDetail.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/SessionDetail.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/SessionRandomExtract.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/SessionRandomExtract.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/Task.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/Task.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/Top10Category.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/Top10Category.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/Top10Session.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/Top10Session.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/jdbc/JDBCHelper.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/jdbc/JDBCHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/jdbc/JDBCHelperTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/jdbc/JDBCHelperTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/page/PageOneStepConvertRateSpark.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/page/PageOneStepConvertRateSpark.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/AreaTop3ProductSpark.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/AreaTop3ProductSpark.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/ConcatLongStringUDF.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/ConcatLongStringUDF.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/GetAreaFromPIA.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/GetAreaFromPIA.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/GetJsonObjectUDF.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/GetJsonObjectUDF.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/GetProductIdFromPIA.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/GetProductIdFromPIA.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/GroupConcatDistinctUDAF.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/GroupConcatDistinctUDAF.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/LongToString.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/LongToString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/RandomPrefixUDF.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/RandomPrefixUDF.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/RemoveRandomPrefixUDF.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/RemoveRandomPrefixUDF.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/StringToLong.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/StringToLong.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/CategorySortKey.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/session/CategorySortKey.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/CategorySortKeyTest.scala" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/session/CategorySortKeyTest.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulator.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/session/SessionAggrStatAccumulator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulatorTest.scala" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/session/SessionAggrStatAccumulatorTest.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/session/UserVisitSessionAnalyzeSpark.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/FastjsonTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/test/FastjsonTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/HiveSqlTest.scala" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/test/HiveSqlTest.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/TestHiveSql.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/test/TestHiveSql.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/TreeMapSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/test/TreeMapSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/DateUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/util/DateUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/MockData.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/util/MockData.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/NumberUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/util/NumberUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/ParamUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/util/ParamUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/SparkUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/util/SparkUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/StringUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/util/StringUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/ValidUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/learn/analyze/util/ValidUtils.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -116,60 +169,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="AreaTop3ProductSpark.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/AreaTop3ProductSpark.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PageOneStepConvertRateSpark.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/page/PageOneStepConvertRateSpark.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="62" column="47" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="62" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/my.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/constant/Constants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SparkUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/SparkUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -182,23 +182,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>maptopair</find>
-      <find>CategorySortKeyTest</find>
-      <find>SessionDetail</find>
-      <find>actionRdd</find>
-      <find>sessionid2ActionRdd</find>
-      <find>filter(</find>
-      <find>foreach</find>
-      <find>broadcast</find>
-      <find>persist</find>
-      <find>intList</find>
-      <find>getact</find>
-      <find>groupbykey</find>
-      <find>reduceby</find>
-      <find>countbykey</find>
-      <find>reducebykey</find>
-      <find>reduceByKey</find>
-      <find>groupByKey</find>
       <find>reduceByKey(func: JFunction</find>
       <find>将session粒度的数据</find>
       <find>seed</find>
@@ -212,10 +195,33 @@
       <find>userinfo</find>
       <find>select * from user_info</find>
       <find>? false : true</find>
+      <find>aggregate</find>
+      <find>cityid2CityInfoRdd</find>
+      <find>tmp_area_product_click_count</find>
+      <find>product_info</find>
+      <find>spark.local.taskid.product</find>
+      <find>IAreaTop3ProductDAO</find>
+      <find>DAOFactory</find>
+      <find>random_prefix</find>
+      <find>AdUserClickCount</find>
+      <find>createStructType</find>
+      <find>row_number</find>
+      <find>reduceByKey</find>
+      <find>getTimeFormate</find>
+      <find>DATE_FORMAT</find>
+      <find>DATEKEY_FORMAT</find>
+      <find>MINUTE_FORMAT</find>
+      <find>parall</find>
     </findStrings>
     <replaceStrings>
       <replace>RDD</replace>
       <replace>CategorySortKey</replace>
+      <replace>AdStat</replace>
+      <replace>getTimeFormate()</replace>
+      <replace>getTimeFormat</replace>
+      <replace>getDateFormat()</replace>
+      <replace>getDateKeyFormat()</replace>
+      <replace>getMinuteFormat()</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -229,57 +235,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/conf/ConfigurationManagerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/constant/Constants.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/jdbc/JDBCHelperTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/jdbc/JDBCHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/TaskDAOImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/Task.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/FastjsonTest.java" />
-        <option value="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.2.1/spark-sql_2.11-2.2.1-sources.jar!/org/apache/spark/sql/SparkSession.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/MockData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/SessionAggrStat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ITaskDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/SessionAggrStatDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/SessionAggrStatDAOImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/ISessionRandomExtractDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ISessionRandomExtractDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/SessionRandomExtract.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/SessionDetail.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/SessionRandomExtractDAOImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ITop10CategoryDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/Top10CategoryDAOImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/Top10Category.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulatorTest.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/CategorySortKey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/CategorySortKeyTest.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/TreeMapSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/Top10Session.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ITop10SessionDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/Top10SessionDAOImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ISessionDetailDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/SessionDetailDAOImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/factory/TaskDAOTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/newfile.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/testConfilct.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/ParamUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/PageSplitConvertRate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IPageSplitConvertRateDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/factory/DAOFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/PageSplitConvertRateDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/hive-site.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/KmeansFromHive.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/HiveSqlTest.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/SparkUtils.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/StringUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/page/PageOneStepConvertRateSpark.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/TestHiveSql.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/my.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/SparkUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/ParamUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/GroupConcatDistinctUDAF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/GetJsonObjectUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/AreaTop3Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IAreaTop3ProductDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/AreaTop3ProductDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/RemoveRandomPrefixUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/ConcatLongStringUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/GetProductIdFromPIA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/GetAreaFromPIA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/LongToString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/StringToLong.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/RandomPrefixUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/MockData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/AdUserClickCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IAdUserClickCountDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/AdUserClickCountQueryResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/AdBlacklist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IAdBlacklistDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/AdBlacklistDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/page/PageOneStepConvertRateSpark.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/AreaTop3ProductSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/AdStat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IAdStatDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/AdProvinceTop3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IAdProvinceTop3DAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/AdProvinceTop3DAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/AdClickTrend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IAdClickTrendDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/factory/DAOFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/AdStatDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/AdClickTrendDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/ad/AdClickRealTimeStatSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/DateUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/AdProvinceTop3DAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/AdUserClickCountDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/my.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/MockRealTimeData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/jdbc/JDBCHelper.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -313,7 +319,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="BehaviorAnalyze" />
+          <option name="myItemId" value="SparkBehaviorAnalyze" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -323,7 +329,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="BehaviorAnalyze" />
+          <option name="myItemId" value="SparkBehaviorAnalyze" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -353,340 +359,10 @@
             <id>Abstraction issuesJava</id>
           </State>
           <State>
-            <id>Android</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Accessibility</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Internationalization</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Performance</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Security</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Usability</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Usability &gt; Typography</id>
-          </State>
-          <State>
-            <id>Android Lint for Kotlin</id>
-          </State>
-          <State>
-            <id>Application Server Specific Inspections</id>
-          </State>
-          <State>
-            <id>Assignment issuesJava</id>
-          </State>
-          <State>
-            <id>Bean Validation issues</id>
-          </State>
-          <State>
-            <id>Bitwise operation issuesJava</id>
-          </State>
-          <State>
-            <id>Bitwise operation issuesJavaScript</id>
-          </State>
-          <State>
-            <id>CDI(Contexts and Dependency Injection) issues</id>
-          </State>
-          <State>
-            <id>CSS</id>
-          </State>
-          <State>
-            <id>Class metricsJava</id>
-          </State>
-          <State>
-            <id>Class structureJava</id>
-          </State>
-          <State>
-            <id>Cloning issuesJava</id>
-          </State>
-          <State>
-            <id>Code maturity issuesJava</id>
-          </State>
-          <State>
-            <id>Code style issuesJava</id>
-          </State>
-          <State>
-            <id>Code style issuesJavaScript</id>
-          </State>
-          <State>
-            <id>CodeSpring CoreSpring</id>
-          </State>
-          <State>
-            <id>CoffeeScript</id>
-          </State>
-          <State>
-            <id>CollectionsScala</id>
-          </State>
-          <State>
-            <id>ComparingCollectionsScala</id>
-          </State>
-          <State>
-            <id>Compiler issuesJava</id>
-          </State>
-          <State>
-            <id>Control FlowGroovy</id>
-          </State>
-          <State>
-            <id>Control flow issuesJava</id>
-          </State>
-          <State>
-            <id>Control flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Cucumber</id>
-          </State>
-          <State>
-            <id>Declaration redundancyJava</id>
-          </State>
-          <State>
-            <id>DeclarationGroovy</id>
-          </State>
-          <State>
-            <id>Dependency issuesJava</id>
-          </State>
-          <State>
-            <id>ECMAScript 6 migration aidsJavaScript</id>
-          </State>
-          <State>
-            <id>Encapsulation issuesJava</id>
-          </State>
-          <State>
-            <id>Error handlingGroovy</id>
-          </State>
-          <State>
-            <id>Error handlingJava</id>
-          </State>
-          <State>
-            <id>Error handlingJavaScript</id>
-          </State>
-          <State>
-            <id>Faces Model</id>
-          </State>
-          <State>
-            <id>FreeMarker inspections</id>
-          </State>
-          <State>
-            <id>GPath inspectionsGroovy</id>
-          </State>
-          <State>
-            <id>GSPGrailsGroovy</id>
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>GeneralCoffeeScript</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralScala</id>
-          </State>
-          <State>
             <id>Google Web Toolkit issues</id>
           </State>
           <State>
-            <id>Gradle</id>
-          </State>
-          <State>
-            <id>GrailsGroovy</id>
-          </State>
-          <State>
-            <id>Groovy</id>
-          </State>
-          <State>
-            <id>Guice Inspections</id>
-          </State>
-          <State>
-            <id>HTML</id>
-          </State>
-          <State>
-            <id>Hibernate Issues</id>
-          </State>
-          <State>
-            <id>IndicesCollectionsScala</id>
-          </State>
-          <State>
-            <id>Inheritance issuesJava</id>
-          </State>
-          <State>
-            <id>Initialization issuesJava</id>
-          </State>
-          <State>
-            <id>Internationalization issuesJava</id>
-          </State>
-          <State>
-            <id>J2ME issuesJava</id>
-          </State>
-          <State>
-            <id>JBoss Seam issues</id>
-          </State>
-          <State>
-            <id>JPA issues</id>
-          </State>
-          <State>
-            <id>JSP Inspections</id>
-          </State>
-          <State>
-            <id>JUnit issuesJava</id>
-          </State>
-          <State>
             <id>Java</id>
-          </State>
-          <State>
-            <id>Java 5Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 7Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 8Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java EE issues</id>
-          </State>
-          <State>
-            <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>JavaBeans issuesJava</id>
-          </State>
-          <State>
-            <id>JavaFX</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript function metricsJavaScript</id>
-          </State>
-          <State>
-            <id>Javadoc issuesJava</id>
-          </State>
-          <State>
-            <id>Kotlin</id>
-          </State>
-          <State>
-            <id>Language Injection</id>
-          </State>
-          <State>
-            <id>Logging issuesJava</id>
-          </State>
-          <State>
-            <id>Manifest</id>
-          </State>
-          <State>
-            <id>MapsCollectionsScala</id>
-          </State>
-          <State>
-            <id>Maven</id>
-          </State>
-          <State>
-            <id>Memory issuesJava</id>
-          </State>
-          <State>
-            <id>Method MetricsGroovy</id>
-          </State>
-          <State>
-            <id>Method metricsJava</id>
-          </State>
-          <State>
-            <id>Method signatureScala</id>
-          </State>
-          <State>
-            <id>Modularization issuesJava</id>
-          </State>
-          <State>
-            <id>Naming ConventionsGroovy</id>
-          </State>
-          <State>
-            <id>Naming conventionsJava</id>
-          </State>
-          <State>
-            <id>Naming conventionsJavaScript</id>
-          </State>
-          <State>
-            <id>Numeric issuesJava</id>
-          </State>
-          <State>
-            <id>OSGi</id>
-          </State>
-          <State>
-            <id>OptionsCollectionsScala</id>
-          </State>
-          <State>
-            <id>OtherCollectionsScala</id>
-          </State>
-          <State>
-            <id>Packaging issuesJava</id>
-          </State>
-          <State>
-            <id>Pattern Validation</id>
-          </State>
-          <State>
-            <id>Performance issuesJava</id>
-          </State>
-          <State>
-            <id>Plugin DevKit</id>
-          </State>
-          <State>
-            <id>Portability issuesJava</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsGroovy</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsCSS</id>
-          </State>
-          <State>
-            <id>Probable bugsGradle</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-          <State>
-            <id>Probable bugsJavaScript</id>
-          </State>
-          <State>
-            <id>Properties Files</id>
-          </State>
-          <State>
-            <id>RELAX NG</id>
-          </State>
-          <State>
-            <id>RegExp</id>
-          </State>
-          <State>
-            <id>Resource management issuesJava</id>
-          </State>
-          <State>
-            <id>SQL</id>
-          </State>
-          <State>
-            <id>Scala</id>
           </State>
           <State>
             <id>Security issuesJava</id>
@@ -694,78 +370,7 @@
           <State>
             <id>Serialization issuesJava</id>
           </State>
-          <State>
-            <id>SetupSpring CoreSpring</id>
-          </State>
-          <State>
-            <id>Simplifications: filter and existsCollectionsScala</id>
-          </State>
-          <State>
-            <id>Simplifications: find and map to applyCollectionsScala</id>
-          </State>
-          <State>
-            <id>Simplifications: otherCollectionsScala</id>
-          </State>
-          <State>
-            <id>Specs2Scala</id>
-          </State>
-          <State>
-            <id>Specs2Specs2Scala</id>
-          </State>
-          <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring AOPSpring</id>
-          </State>
-          <State>
-            <id>Spring CoreSpring</id>
-          </State>
-          <State>
-            <id>Struts</id>
-          </State>
-          <State>
-            <id>Struts 1Struts</id>
-          </State>
-          <State>
-            <id>TestNGJava</id>
-          </State>
-          <State>
-            <id>Threading issuesGroovy</id>
-          </State>
-          <State>
-            <id>Threading issuesJava</id>
-          </State>
-          <State>
-            <id>TypeScript</id>
-          </State>
-          <State>
-            <id>UI Form Problems</id>
-          </State>
-          <State>
-            <id>Velocity inspections</id>
-          </State>
-          <State>
-            <id>Verbose or redundant code constructsJava</id>
-          </State>
-          <State>
-            <id>WebSocket issues</id>
-          </State>
-          <State>
-            <id>XML</id>
-          </State>
-          <State>
-            <id>XMLSpring CoreSpring</id>
-          </State>
-          <State>
-            <id>XPath</id>
-          </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>Android</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -788,27 +393,25 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -818,11 +421,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -832,33 +435,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -869,22 +450,14 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -900,25 +473,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="session" />
+              <option name="myItemId" value="analyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -934,21 +499,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="analyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spark" />
+              <option name="myItemId" value="dao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -964,41 +529,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sparkanalyze" />
+              <option name="myItemId" value="analyze" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1006,28 +537,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SparkBehaviorAnalyze" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analyze" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.CVS" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.splitter.proportion" value="0.28301886" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BehaviorAnalyze" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.learn.sparkanalyze.util" />
       <recent name="com.learn.sparkanalyze.dao" />
       <recent name="com.learn.sparkanalyze.domain" />
       <recent name="com.learn.sparkanalyze.dao.factory" />
       <recent name="com.learn.sparkanalyze.dao.impl" />
-      <recent name="com.learn.sparkanalyze.jdbc" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEAWorkSpace\sparkanalyze\src\main\java\com\learn\sparkanalyze\test" />
@@ -1049,75 +612,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestHiveSql">
-    <configuration default="false" name="TaskDAOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.learn.sparkanalyze.dao.factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.learn.sparkanalyze.dao.factory.TaskDAOTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkanalyze" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="KmeansFromHive" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.learn.sparkanalyze.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.learn.sparkanalyze.test.HiveSqlTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkanalyze" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestHiveSql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.learn.sparkanalyze.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.learn.sparkanalyze.test.TestHiveSql" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkanalyze" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MockRealTimeData">
     <configuration default="false" name="PageOneStepConvertRateSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.learn.sparkanalyze.spark.page.*" />
+          <option name="PATTERN" value="com.learn.analyze.spark.page.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.learn.sparkanalyze.spark.page.PageOneStepConvertRateSpark" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.analyze.spark.page.PageOneStepConvertRateSpark" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1126,27 +629,87 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkanalyze" />
+      <module name="SparkBehaviorAnalyze" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="UserVisitSessionAnalyzeSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AreaTop3ProductSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.learn.sparkanalyze.spark.session.*" />
+          <option name="PATTERN" value="com.learn.analyze.spark.product.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.learn.sparkanalyze.spark.session.UserVisitSessionAnalyzeSpark" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.analyze.spark.product.AreaTop3ProductSpark" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkanalyze" />
+      <module name="SparkBehaviorAnalyze" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.learn.analyze.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.learn.analyze.test.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SparkBehaviorAnalyze" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MockRealTimeData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.learn.analyze.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.learn.analyze.util.MockRealTimeData" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SparkBehaviorAnalyze" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AdClickRealTimeStatSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.learn.analyze.spark.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.learn.analyze.spark.ad.AdClickRealTimeStatSpark" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SparkBehaviorAnalyze" />
       <envs />
       <method />
     </configuration>
@@ -1617,19 +1180,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TaskDAOTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KmeansFromHive" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestHiveSql" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PageOneStepConvertRateSpark" />
-      <item index="4" class="java.lang.String" itemvalue="Application.UserVisitSessionAnalyzeSpark" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PageOneStepConvertRateSpark" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AreaTop3ProductSpark" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MockRealTimeData" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AdClickRealTimeStatSpark" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestHiveSql" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UserVisitSessionAnalyzeSpark" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PageOneStepConvertRateSpark" />
-        <item index="3" class="java.lang.String" itemvalue="Application.KmeansFromHive" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TaskDAOTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MockRealTimeData" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AdClickRealTimeStatSpark" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AreaTop3ProductSpark" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PageOneStepConvertRateSpark" />
       </list>
     </recent_temporary>
   </component>
@@ -1653,7 +1216,15 @@
       <workItem from="1525800882741" duration="3092000" />
       <workItem from="1526144025586" duration="4348000" />
       <workItem from="1526348207272" duration="89763000" />
-      <workItem from="1526965186603" duration="12148000" />
+      <workItem from="1526965186603" duration="13072000" />
+      <workItem from="1527038562426" duration="9472000" />
+      <workItem from="1527051086422" duration="5163000" />
+      <workItem from="1527085284556" duration="100817000" />
+      <workItem from="1527562538018" duration="603000" />
+      <workItem from="1527564777809" duration="382000" />
+      <workItem from="1527571233399" duration="118000" />
+      <workItem from="1527571403801" duration="722000" />
+      <workItem from="1527779375760" duration="246000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1525801099939</created>
@@ -1690,11 +1261,32 @@
       <option name="project" value="LOCAL" />
       <updated>1526875094755</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="page is completed">
+      <created>1527009255143</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1527009255143</updated>
+    </task>
+    <task id="LOCAL-00007" summary="AreaTop3Product is completed">
+      <created>1527178099240</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1527178099240</updated>
+    </task>
+    <task id="LOCAL-00008" summary="AreaTop3Product recommit">
+      <created>1527178439171</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1527178439171</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294269000" />
+    <option name="totallyTimeSpent" value="412716000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1709,34 +1301,34 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16874292" sideWeight="0.50214595" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3159871" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946466" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22763307" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25934315" sideWeight="0.4474249" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2729332" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16874292" sideWeight="0.50214595" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31545064" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24801812" sideWeight="0.49569893" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17214043" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30804077" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15987125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19903433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946466" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.71460927" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41336355" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4745187" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1754,14 +1346,17 @@
     <MESSAGE value="delete newfile" />
     <MESSAGE value="merge local and remote" />
     <MESSAGE value="session is completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="session is completed" />
+    <MESSAGE value="page is completed" />
+    <MESSAGE value="AreaTop3Product is completed" />
+    <MESSAGE value="AreaTop3Product recommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="AreaTop3Product recommit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="117" />
+      <option name="time" value="132" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1770,320 +1365,342 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/1.6.3/spark-core_2.11-1.6.3-sources.jar!/org/apache/spark/api/java/JavaRDDLike.scala">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.6.3/spark-sql_2.10-1.6.3-sources.jar!/org/apache/spark/sql/SQLContext.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="148" column="40" lean-forward="false" selection-start-line="148" selection-start-column="40" selection-end-line="148" selection-end-column="40" />
+        <state relative-caret-position="199">
+          <caret line="66" column="6" lean-forward="false" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/SessionDetail.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/GroupConcatDistinctUDAF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#1508#1509#0" expanded="false" />
-            <element signature="e#1544#1545#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="110">
+          <caret line="102" column="46" lean-forward="false" selection-start-line="102" selection-start-column="46" selection-end-line="102" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ITaskDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/GetJsonObjectUDF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="416">
+          <caret line="16" column="64" lean-forward="true" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/Top10CategoryDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/util/SparkUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="452">
+          <caret line="145" column="49" lean-forward="false" selection-start-line="145" selection-start-column="36" selection-end-line="145" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/Top10Session.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IPageSplitConvertRateDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="286">
+          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/ISessionDetailDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/SessionDetailDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="869">
-          <caret line="39" column="47" lean-forward="false" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+        <state relative-caret-position="288">
+          <caret line="52" column="43" lean-forward="false" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/SessionDetailDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/PageSplitConvertRateDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="72" column="42" lean-forward="true" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+        <state relative-caret-position="95">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/factory/TaskDAOTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAreaTop3ProductDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="312">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/1.6.3/spark-core_2.11-1.6.3-sources.jar!/org/apache/spark/Accumulators.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/GetAreaFromPIA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="91" column="6" lean-forward="false" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="true" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/newfile.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/testConfilct.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/local.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/remote.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/CategorySortKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/1.6.3/spark-core_2.11-1.6.3-sources.jar!/org/apache/spark/rdd/RDD.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="422" column="81" lean-forward="false" selection-start-line="422" selection-start-column="21" selection-end-line="422" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/NumberUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar!/scala/Equals.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK1.8/src.zip!/java/lang/Long.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="1073" column="19" lean-forward="false" selection-start-line="1073" selection-start-column="19" selection-end-line="1073" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/1.6.3/spark-core_2.11-1.6.3-sources.jar!/org/apache/spark/api/java/JavaPairRDD.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="1017" column="83" lean-forward="false" selection-start-line="1017" selection-start-column="83" selection-end-line="1017" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/conf/ConfigurationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="121" column="23" lean-forward="false" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK1.8/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="108" column="17" lean-forward="false" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/JSONObject.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/GetProductIdFromPIA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          <folding />
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/IPageSplitConvertRateDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/ConcatLongStringUDF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="156">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/Top10SessionDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/AreaTop3Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="182">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/factory/DAOFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/StringToLong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="87" column="32" lean-forward="false" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
-          <folding>
-            <element signature="e#2232#2233#0" expanded="false" />
-            <element signature="e#2285#2286#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="156">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/1.6.3/spark-catalyst_2.11-1.6.3-sources.jar!/org/apache/spark/sql/Row.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/LongToString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+        <state relative-caret-position="156">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/dao/impl/PageSplitConvertRateDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/RandomPrefixUDF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/PageSplitConvertRate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/RemoveRandomPrefixUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="49" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/util/MockData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka_2.10/1.6.3/spark-streaming-kafka_2.10-1.6.3-sources.jar!/org/apache/spark/streaming/kafka/KafkaUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="587" column="18" lean-forward="true" selection-start-line="587" selection-start-column="18" selection-end-line="587" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK1.8/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="80" column="13" lean-forward="false" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/AdUserClickCountQueryResult.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/AdUserClickCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/domain/AdBlacklist.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAdBlacklistDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/AdStat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="23" />
-          <folding />
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/1.6.3/spark-hive_2.11-1.6.3-sources.jar!/org/apache/spark/sql/hive/HiveContext.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AreaTop3ProductDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        <state relative-caret-position="338">
+          <caret line="18" column="57" lean-forward="false" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/jdbc/JDBCHelperTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AdBlacklistDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-787">
+        <state relative-caret-position="179">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.3/spark-core_2.10-1.6.3-sources.jar!/org/apache/spark/api/java/JavaRDDLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="73" column="6" lean-forward="false" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/TaskDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/jdbc/JDBCHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="100" column="48" lean-forward="false" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hive-site.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.6.3/spark-sql_2.10-1.6.3-sources.jar!/org/apache/spark/sql/SQLContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="75" column="6" lean-forward="false" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/SessionAggrStatAccumulatorTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="65" column="17" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/ParamUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="22" column="62" lean-forward="false" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK1.8/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="54" column="36" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/StringUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/HiveSqlTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAdProvinceTop3DAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAdStatDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/AdProvinceTop3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAdClickTrendDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/domain/AdClickTrend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/factory/DAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="152" column="36" lean-forward="false" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AdClickTrendDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/session/UserVisitSessionAnalyzeSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="98" column="58" lean-forward="false" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/product/AreaTop3ProductSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9672">
+          <caret line="481" column="20" lean-forward="true" selection-start-line="481" selection-start-column="20" selection-end-line="481" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/page/PageOneStepConvertRateSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="36" column="57" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.3/spark-core_2.10-1.6.3-sources.jar!/org/apache/spark/scheduler/Task.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="98" column="8" lean-forward="false" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/IAdUserClickCountDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/util/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="15" column="76" lean-forward="false" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/my.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/TestHiveSql.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/jdbc/JDBCHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="54">
+          <caret line="265" column="13" lean-forward="false" selection-start-line="265" selection-start-column="13" selection-end-line="265" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/test/MockData.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/util/MockRealTimeData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="148" column="0" lean-forward="true" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1066">
+          <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sparkanalyze.iml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AdProvinceTop3DAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="152">
+          <caret line="17" column="67" lean-forward="false" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AdUserClickCountDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/dao/impl/AdStatDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="208">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -2091,53 +1708,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/util/SparkUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/analyze/spark/ad/AdClickRealTimeStatSpark.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/my.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/constant/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/session/UserVisitSessionAnalyzeSpark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="112" column="24" lean-forward="true" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/page/PageOneStepConvertRateSpark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="62" column="47" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="62" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/sparkanalyze/spark/product/AreaTop3ProductSpark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="163" column="75" lean-forward="false" selection-start-line="163" selection-start-column="69" selection-end-line="163" selection-end-column="75" />
         </state>
       </provider>
     </entry>
@@ -2194,7 +1768,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>sparkanalyze</last-edited>
+          <last-edited>SparkBehaviorAnalyze</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
